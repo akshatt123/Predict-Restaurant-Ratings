@@ -1,4 +1,4 @@
-# *** Predict-Restaurant-Ratings ***
+# ***Predict-Restaurant-Ratings***
 
 ## Project Overview
 
