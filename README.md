@@ -209,9 +209,7 @@ Bar chart showcasing the top 10 most common cuisines in the dataset.
 
 * Deploy the model using Flask or FastAPI for real-time predictions.
 
-## License
 
-This project is licensed under the MIT License. See LICENSE for more information.
 
 
 
